@@ -1,7 +1,12 @@
 aid: oil-states-international
-url: https://raw.githubusercontent.com/api-evangelist/oil-states-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/oil-states-international/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.oil-states-international.com
+description: >-
+  Oil States International is a global oilfield services company that provides specialty
+  products and services to oil and gas drilling and production companies throughout
+  the world.
